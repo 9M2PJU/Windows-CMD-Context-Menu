@@ -1,4 +1,4 @@
-# Open Command Window Here as Administrator (Windows 10)
+# Open Command Window Here as Administrator
 
 This repository provides registry files to add "Open command window here as administrator" and "Open command window here" options to the context menu in Windows 10. This makes it easier to open a command prompt directly in the directory you're currently browsing.
 
@@ -22,8 +22,8 @@ This repository provides registry files to add "Open command window here as admi
 1. **Download the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/OpenCommandWindowHere.git
-    cd OpenCommandWindowHere
+    git clone https://github.com/9M2PJU/Windows-CMD-Context-Menu.git
+    cd Windows-CMD-Context-Menu
     ```
 
 2. **Install the registry files:**
@@ -57,7 +57,7 @@ To remove the context menu options, you can use the `Uninstall_OpenCommandWindow
 1. **Download the repository (if not already done):**
 
     ```sh
-    git clone https://github.com/yourusername/OpenCommandWindowHere.git
+    git clone https://github.com/9M2PJU/Windows-CMD-Context-Menu.git
     cd OpenCommandWindowHere
     ```
 
